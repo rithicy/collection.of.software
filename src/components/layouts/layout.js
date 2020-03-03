@@ -2,7 +2,7 @@
 import React from "react";
 import logo from "../../logo.svg";
 import rail from "../../rail.svg";
-import Aux from "../../hoc/auxComponent";
+import Aux from "../../hocs/auxComponent";
 
 const layout = props => (
   <Aux>

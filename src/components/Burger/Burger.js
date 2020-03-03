@@ -1,12 +1,11 @@
 import React from "react";
-import burgerIngredient from "./BurgerIngredient/BUrgerIngredient";
+import BurgerIngredient from "./BurgerIngredient/BUrgerIngredient";
 
-const burger = (props) => {
+const burger = props => {
   return (
     <div className="jumborton">
-      <burgerIngredient type="bread-top" />
-
-      <burgerIngredient type="bread-bottom" />
+      <BurgerIngredient type="bread-top" />
+      <BurgerIngredient type="bread-bottom" />
     </div>
   );
 };

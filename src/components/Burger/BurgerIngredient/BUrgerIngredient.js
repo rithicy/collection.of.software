@@ -8,13 +8,13 @@ const burgerIngredient = props => {
       break;
     case "bread-top":
       ingredient = (
-        <div className="card bg-dark">
+        <div className="card bg-success">
           <div>Bread Top</div>
         </div>
       );
       break;
     default:
-      ingredient = null;
+      ingredient = <div>null</div>;
   }
   return ingredient;
 };

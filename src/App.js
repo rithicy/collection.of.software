@@ -4,6 +4,8 @@ import "./App.css";
 import Home from "./components/pages/home";
 import Layout from "./components/layouts/layout";
 
+// root component
+
 function App() {
   return (
     <Layout>

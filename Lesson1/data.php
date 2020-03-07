@@ -1,0 +1,8 @@
+<?php
+
+   $title="FUck You";
+
+
+
+
+    ?>

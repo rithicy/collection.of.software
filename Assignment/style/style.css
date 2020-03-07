@@ -1,0 +1,21 @@
+.container-fluid{background: #007ab7;margin-bottom: 25px;}
+.container-fluid a{margin-top: 5px;color: #fff;}
+.container-fluid h3{color:#fff !important;margin-top: 10px;}
+.data{
+    overflow-y: scroll;
+    height: 540px;
+}
+.data2{
+    overflow-y: scroll;
+    height: 600px;
+}
+.well{background: #e2f5ff !important;border: 1px solid #81c0df !important;}
+.tables{width: 97.6% !important;}
+.jumbotron{background: #b6e7ff !important;}
+.thead{background: #ade4ff;}
+.tbody:nth-of-type(odd){background: #ffefef;}
+.tbody:nth-of-type(even){background: #eaf8ff;}
+select{
+    height: 36px;
+    margin-bottom: 18px !important;
+}

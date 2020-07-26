@@ -6,7 +6,7 @@ class Admin
     public $server = "localhost";
     public  $username = "root";
     public  $password = "";
-    public $database = "instinct";
+    public $database = "php_ecommerce";
     public $connect;
 
   public function __construct()
